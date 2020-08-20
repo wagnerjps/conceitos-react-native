@@ -23,8 +23,8 @@ Aqui esta uma print dos testes realizados com sucesso.
 
 ## Print Mobile
 Aqui esta uma print do App Mobile desenvolvido em aula e do App Mobile desenvolvido no Desafio
-<img alt="App Aula" src="./print_aula_react_native.png" />
-<img alt="App Desafio" src="./print_desafio_react_native.png" />
+<img alt="App Aula" src="./print_aula_react_native.PNG" />
+<img alt="App Desafio" src="./print_desafio_react_native.PNG" />
 
 ## :snowflake: Template
 
